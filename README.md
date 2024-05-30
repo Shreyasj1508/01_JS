@@ -1,2 +1,2 @@
-# 01_JS
+# JAVASCRIPT
 Hey i just started learning JS  !!
